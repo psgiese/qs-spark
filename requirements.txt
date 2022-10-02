@@ -1,3 +1,1 @@
-numpy
-pandas
-datetime
+koalas==1.8.1
